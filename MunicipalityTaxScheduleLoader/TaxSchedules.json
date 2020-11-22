@@ -1,0 +1,32 @@
+{
+	"MunicipalityTaxScheduleModels": [
+		{
+			"Municipality": "Copenhagen",
+			"TaxScheduleType": 0,
+			"ValidFrom": "2016-01-01T00:00:00",
+			"ValidTo": "2016-01-01T00:00:00",
+			"Tax": 0.1
+		},
+		{
+			"Municipality": "Copenhagen",
+			"TaxScheduleType": 0,
+			"ValidFrom": "2016-12-25T00:00:00",
+			"ValidTo": "2016-12-25T00:00:00",
+			"Tax": 0.1
+		},
+		{
+			"Municipality": "Copenhagen",
+			"TaxScheduleType": 2,
+			"ValidFrom": "2016-05-01T00:00:00",
+			"ValidTo": "2016-05-31T00:00:00",
+			"Tax": 0.4
+		},
+		{
+			"Municipality": "Copenhagen",
+			"TaxScheduleType": 3,
+			"ValidFrom": "2016-01-01T00:00:00",
+			"ValidTo": "2016-12-31T00:00:00",
+			"Tax": 0.2
+		}
+	]
+}
